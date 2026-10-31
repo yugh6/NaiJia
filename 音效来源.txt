@@ -1,0 +1,8 @@
+﻿奶狗叫声音效来源
+
+George vuf 1996.ogg
+Recorder/author: Broadbeer; dog: George, a Labrador.
+Source: https://commons.wikimedia.org/wiki/File:George_vuf_1996.ogg
+Original: https://upload.wikimedia.org/wikipedia/commons/4/4c/George_vuf_1996.ogg
+Public domain (PD-self), released worldwide by the copyright holder.
+Changes: mono PCM 44.1kHz, DC removal, volume matching, 5ms fades.

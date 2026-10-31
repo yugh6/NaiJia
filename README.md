@@ -6,11 +6,15 @@
 
 ## 下载
 
-[**下载奶家 v2.2.2 Windows 文件夹版**](https://github.com/yugh6/NaiJia/releases/download/v2.2.2/NaiJia-v2.2.2-Windows.zip)
+仓库已按完整的用户端目录提供程序、角色与声音素材。
 
-下载上面的 ZIP 后完整解压，进入“奶家”文件夹，双击 **奶蛙桌宠.exe** 启动。请一并保留“角色”和“品牌”文件夹。
+1. 点击页面右上方的 **Code → Download ZIP**，下载整个仓库。
+2. 完整解压后，进入 **NaiJia-main** 文件夹，双击 **奶蛙桌宠.exe** 启动。
+3. 请保留程序旁的“角色”和“品牌”文件夹。
 
-本仓库提供成品下载，源码不随发布包提供。GitHub 自动生成的 **Source code** 压缩包仅包含仓库文档；请下载上方链接所指向的 Windows 发布包。
+也可以从 [Releases 下载 v2.2.2 Windows 文件夹版](https://github.com/yugh6/NaiJia/releases/download/v2.2.2/NaiJia-v2.2.2-Windows.zip)。在发行页面中请选择名称含 Windows 的 ZIP。`SHA256SUMS.txt` 对应该版本发布包。
+
+本仓库提供完整的成品运行文件和使用说明，源码不随包发布。
 
 ## 开始使用
 
