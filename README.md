@@ -1,10 +1,14 @@
 # 奶家
 
-让奶蛙、奶蛋、奶鼠、奶狗和奶鸡陪伴你的桌面。奶家是一款本地运行的 Windows 桌宠，支持角色互动、自由拖动、多角色切换和分身。
+让奶蛙、奶蛋、奶鼠、奶狗和奶鸡陪伴你的桌面。奶家是一款本地运行的桌宠，支持角色互动、自由拖动、多角色切换和分身。
 
-当前版本：2.2.2 · 支持 Windows 10 / 11 · 需要 .NET Framework 4.x
+Windows 正式版：2.2.2 · 支持 Windows 10 / 11 · 需要 .NET Framework 4.x
+
+Mac 测试版：0.1.0 beta 1 · 支持 macOS 12 及以上 · Apple 芯片 / Intel
 
 ## 下载
+
+### Windows 正式版
 
 仓库已按完整的用户端目录提供程序、角色与声音素材。
 
@@ -15,6 +19,14 @@
 也可以从 [Releases 下载 v2.2.2 Windows 文件夹版](https://github.com/yugh6/NaiJia/releases/download/v2.2.2/NaiJia-v2.2.2-Windows.zip)。在发行页面中请选择名称含 Windows 的 ZIP。`SHA256SUMS.txt` 对应该版本发布包。
 
 如遇到github网络连接问题导致下载失败，可换用gitee同路径尝试下载。
+
+### Mac 测试版
+
+[下载 Mac 测试包 beta 1（Apple 芯片 / Intel）](https://github.com/yugh6/NaiJia/releases/download/macos-v0.1.0-beta.1/NaiJia-macOS-universal-beta1.zip) · [测试版说明](https://github.com/yugh6/NaiJia/releases/tag/macos-v0.1.0-beta.1)
+
+支持 macOS 12 及以上。完整解压后，将“奶家.app”拖入“应用程序”文件夹启动。Mac 版素材已包含在 App 内。
+
+这是尚未完成苹果开发者签名和公证的测试版，首次打开可能出现无法验证开发者的提示。建议先小范围试用并反馈。
 
 ## 开始使用
 
